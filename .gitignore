@@ -1,1 +1,3 @@
 app.env
+.env
+cmd/go-url-shortener/.env
